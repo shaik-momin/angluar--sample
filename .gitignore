@@ -1,0 +1,86 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+out/
+
+# Publish output
+publish/
+*.publishsettings
+
+# NuGet
+*.nupkg
+packages/
+.nuget/packages/
+.nuget/v3-cache/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResults/
+*.TestResults/
+
+# Entity Framework
+*.dbmdl
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Node
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.userprefs
+
+# Lock files
+project.lock.json
+project.fragment.lock.json
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# Ignore local JetBrains IDE files
+.idea/
+
+# Ignore generated coverage files
+coverage*/
+*.coverage
+*.coveragexml
+
+# Ignore build artifacts from dotnet
+*.o
+*.obj
+
+# Others
+*.local
+
